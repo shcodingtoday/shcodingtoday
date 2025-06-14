@@ -1,4 +1,4 @@
-Very interested in embedded systems at the moment: Arduino, ESP32.
+Very interested in embedded systems at the moment
 
 - Sam
 
